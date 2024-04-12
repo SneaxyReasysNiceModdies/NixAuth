@@ -1,14 +1,14 @@
 {
     "networth": {
-        "apiKey": "959bb1c7-cc41-4b65-9e49-63d5b8d1092c"
+        "apiKey": ""
     },
 
     "URLS": {
-        "apiURL": "https://mmcarries.onrender.com"
+        "apiURL": ""
     },
 
     "webhook": {
-        "webhookURL": "https://discordapp.com/api/webhooks/1227947926052143177/-rdkTkxvq6OGUOTTgJUqIVV2v-5I5AYT7pszN8IqluGo2d5AYn6e9_z6wPkkDxnWnmX9"
+        "webhookURL": ""
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "dacf3fb0-ff2b-4126-ab38-469fb567d3cd",
-        "client_secret": "yYF8Q~fzcqCGgHk2kuDBRqjI01S3cvdwA4Q9~dBC",
-        "redirect_uri": "https://mmcarries.onrender.com"
+        "client_id": "",
+        "client_secret": "",
+        "redirect_uri": ""
     }
 }
